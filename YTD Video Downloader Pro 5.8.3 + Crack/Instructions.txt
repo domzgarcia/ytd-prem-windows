@@ -1,0 +1,8 @@
+How to install/Activate?
+========================
+
+Disconnect from internet (most recommended)
+Extract and install the program (run setup)
+Do not launch the program, exit if running
+Copy cracked file from Crack to install dir
+Example: %ProgramFiles%\YTD Video Downloader
